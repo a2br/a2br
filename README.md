@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a high school student in France. I discovered code as I was 13: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn!
 
-### Me and the code 💻
+### Me and my code 💻
 My first project was a Nodejs Discord bot named Brainjuice. I spent a couple of months working on it, and I'm still satisfied by the result. 70 guilds used it? Unfortunately, I had to turn it off, because of a lack of ressources --mostly time.
 
 I *try* to keep a healthy balance between programmation and school. As I programm (or study, that's pretty much the same), I enjoy listening to music. Mostly lo-fi or classical stuff.
