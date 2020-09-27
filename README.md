@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a high school student in France. I discovered code in 9th grade: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn!
+I'm a high school student in France. I discovered code as I was 13: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn!
+
+### Me and the code 💻
+My first project was a Discord bot named Brainjuice. I spent a couple of months working on it, and I'm still satisfied by the result. 70 guilds used it, but I had to turn it off, because of the ressources that were lacking --mostly time. I *try* to keep a healthy balance between programmation and school. As I programm (or study, that's pretty much the same), I enjoy listening to music. More like lo-fi or classical stuff.
+
+### What I'm working on
+I'm currently working on a personal project, Covguard. To make it short, it's a platform for my school that'll allow to track COVID spread. At a lower level, it's supposed to make me discover and manipulate graph databases, with which I'm not familiar.
