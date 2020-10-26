@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a high school student in France. I discovered code as I was 13: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn! Pronouns: He/him
+I'm a high school student in France. I discovered code as I was 13: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn! **Pronouns:** He/him
 
 ### 📫 How to reach me
 You can do so by sending me a DM on Twitter :)
