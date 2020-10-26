@@ -27,7 +27,7 @@ I really enjoy climbing! 🧗‍♂️ A lot of people inspire me on the Interne
 I'm currently working on a personal project, [Covguard](https://github.com/covguard). 🦠 Long story short, it's a platform for my school that'll allow to track COVID spread by collecting data given by students. 😷 At a personnal level, it allows me to discover and manipulate graph databases, with which I'm not familiar.
 
 ### ⚡ Fun fact
-Hey, I'm born a 09/01, and the original iPhone too ;)
+Hey, I'm born a 09/01, and the original iPhone too ;) sry thats all i've got x)
 
 [![a2br's GitHub stats](https://github-readme-stats.vercel.app/api?username=a2br&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
