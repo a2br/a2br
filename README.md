@@ -22,3 +22,6 @@ My first project was a Nodejs Discord bot named Brainjuice. I spent a couple of 
 
 ### What I'm currently programming 🕒
 I'm currently working on a personal project, Covguard. To make it short, it's a platform for my school that'll allow to track COVID spread. At a personnal level, it's supposed to make me discover and manipulate graph databases, with which I'm not familiar.
+
+[![a2br's GitHub stats](https://github-readme-stats.vercel.app/api?username=a2br&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
