@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a high school student in France. I discovered code as I was 13: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn! **Pronouns:** He/him
+I'm a high school student in France. I discovered code as I was 13: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn! **Pronouns:** He/him / **Discord:** `a2b#1937`
 
 My first programmation project was a Nodejs Discord bot named Brainjuice. Today, I experiment new stuff, and aim at making [useful things](https://github.com/a2br/netflix-pin-hacker "Yeahhh... useful things..."). I also really enjoy participating to repos I love on GitHub. I'm pretty decent at `JavaScript` and `TypeScript`, and I also know `Python`, I learn it as I need it. I *try* to keep a healthy balance between programmation and school. 🎒 My biggest dream is to help while doing what I like. Kinda vague, I know, but that's what I want.
 
