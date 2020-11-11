@@ -20,4 +20,6 @@ I'm a high school student in France. I discovered code as I was 13: since then, 
 I'm pretty decent at `JavaScript` and `TypeScript`, and I also know `Python`.
 
 [![a2br's GitHub stats](https://github-readme-stats.vercel.app/api?username=a2br&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
