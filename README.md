@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a high school student in France. I discovered code as I was 13: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn! I'm pretty decent at `JavaScript` and `TypeScript`, and I also know `Python`. **Pronouns:** He/him / **Discord:** `a2b#1937`
+I'm a high school student in France. I discovered code as I was 13: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn! I'm pretty decent at `JavaScript` and `TypeScript`, and I also know `Python`. **Pronouns:** He/him / **Discord:** [`a2b#1937`](https://discord.com/users/257378531934208001)
 
 [![a2br's GitHub stats](https://github-readme-stats.vercel.app/api?username=a2br&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
