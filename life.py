@@ -13,9 +13,9 @@ def sleep():
 
 while alive:
     fate = round(eight_ball(), 2)
-    near_future = round(fate)
+    hungry = round(fate)
 
-    (eat if near_future else sleep)()
+    (eat if hungry else sleep)()
 
     alive = False if fate == 0.42 else True
 
