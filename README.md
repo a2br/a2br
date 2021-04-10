@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a high school student in France. I discovered programming in March 2020, during lockdown: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn! I *think* I'm pretty good at `JavaScript` and `TypeScript` (it doesn't mean I *am* though), and I also know a bit of `Python`. **Discord:** [`a2br#1937`](https://discord.com/users/257378531934208001)
+I'm a high school student in France. I discovered programming in March 2020, during lockdown: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn! Pretty decent at `JavaScript` and `TypeScript`, and I can get by w/ `Python`. Learning `Rust` at a very slow pace. 
+
+**StackOverflow**: [a2br](https://stackoverflow.com/users/13230118/a2br) / **Discord**: [a2br#1937](https://discord.com/users/257378531934208001) / **BitClout**: [a2b](https://bitclout.com/u/a2b)
