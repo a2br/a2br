@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a high school student in France. I discovered programming in March 2020, during lockdown: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn! Pretty decent at `JavaScript` and `TypeScript`, and I can get by w/ `Python`. Learning `Rust` at a very slow pace. 
+I'm Anatole, high school student in France. I discovered programming in March 2020, during lockdown: since then, I keep being amazed by its awesome potential and all the great things which can be done with it. The best part is, there's always more to learn!
 
-**StackOverflow**: [a2br](https://stackoverflow.com/users/13230118/a2br) / **Discord**: [a2br#1937](https://discord.com/users/257378531934208001) / **BitClout**: [a2b](https://bitclout.com/u/a2b)
+I want to help in making technology more helpful.
+
+- Pretty decent at `TypeScript`[\*](/ "Adding 'JavaScript' here feels somewhat redundant.")
+- Can get by with `Python`, `C++` (learning as I go)
+- Learning `Rust` at a very slow pace
+
+**StackOverflow**: [a2br](https://stackoverflow.com/users/13230118/a2br) / **Discord**: [a2br#1937](https://discord.com/users/257378531934208001) / **BitClout**: [a2b](https://bitclout.com/u/a2b) / **Blog**: *Coming soon[\*](/ "Note that the meaning of 'soon' here is mostly subjective.")*
