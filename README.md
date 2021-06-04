@@ -19,8 +19,8 @@ I'm Anatole, high school student in France. I discovered programming in March 20
 
 I want to help in making technology more helpful.
 
-- Pretty decent at `TypeScript`[*﹖*](/ "Adding 'JavaScript' here feels somewhat redundant.")
+- Pretty decent at `TypeScript` *(Adding 'JavaScript' here feels somewhat redundant)*
 - Can get by with `Python`, `C++` (learning as I go)
 - Learning `Rust` at a very slow pace
 
-**StackOverflow**: [a2br](https://stackoverflow.com/users/13230118/a2br) / **Discord**: [a2br#1937](https://discord.com/users/257378531934208001) / **BitClout**: [a2b](https://bitclout.com/u/a2b) / **Blog**: *Coming soon[﹖](/ "Note that the meaning of 'soon' here is mostly subjective.")*
+**StackOverflow**: [a2br](https://stackoverflow.com/users/13230118/a2br) / **Discord**: [a2br#1937](https://discord.com/users/257378531934208001) / **BitClout**: [a2b](https://bitclout.com/u/a2b) / **Blog**: *Coming soon (Note that the meaning of 'soon' here is mostly subjective.)*
