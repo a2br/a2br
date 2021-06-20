@@ -1,4 +1,3 @@
-<p>
 ### Hi! ✨
 
 <!--
@@ -25,4 +24,3 @@ I want to help in making technology more helpful.
 - Learning `Rust` at a very slow pace
 
 **StackOverflow**: [a2br](https://stackoverflow.com/users/13230118/a2br) / **Discord**: [a2br#1937](https://discord.com/users/257378531934208001) / **BitClout**: [a2b](https://bitclout.com/u/a2b) / **Blog**: *Coming soon (Note that the meaning of 'soon' here is mostly subjective.)*
-</p>
